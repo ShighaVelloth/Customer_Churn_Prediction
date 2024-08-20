@@ -4,10 +4,15 @@
 DECISION TREE
 
 Decision Tree is the most powerful and popular tool for classification and prediction. A Decision tree is a flowchart-like tree structure, where each internal node denotes a test on an attribute, each branch represents an outcome of the test, and each leaf node (terminal node) holds a class label.
+
 The strengths of decision tree methods are:
+
 1.Decision trees are able to generate understandable rules.
+
  2.Decision trees perform classification without requiring much computation.
+ 
  3.Decision trees are able to handle both continuous and categorical variables. 
+ 
 4.Decision trees provide a clear indication of which fields are most important for prediction or classification.
 
 GINI INDEX
