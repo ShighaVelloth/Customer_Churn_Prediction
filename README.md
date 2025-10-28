@@ -16,7 +16,8 @@ To develop a predictive model that accurately identifies potential customers who
 
 * Enabled data-driven decision-making for personalized retention strategies, reducing customer loss.
 
-## Programming Language: Python
+## Tools/Technologies used
+Programming Language: Python
 
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
