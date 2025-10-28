@@ -1,25 +1,26 @@
 # Customer Churn Prediction 
 
-# Model
-DECISION TREE
+## Problem Statement
 
-Decision Tree is the most powerful and popular tool for classification and prediction. A Decision tree is a flowchart-like tree structure, where each internal node denotes a test on an attribute, each branch represents an outcome of the test, and each leaf node (terminal node) holds a class label.
+Customer retention is a critical challenge for businesses, as acquiring new customers is often more expensive than retaining existing ones. The company faces high customer attrition but lacks an efficient system to identify customers likely to churn.
 
-The strengths of decision tree methods are:
+## Objective
 
-1.Decision trees are able to generate understandable rules.
+To develop a predictive model that accurately identifies potential customers who are at risk of churning, enabling the business to take proactive retention measures and improve customer satisfaction.
 
- 2.Decision trees perform classification without requiring much computation.
- 
- 3.Decision trees are able to handle both continuous and categorical variables. 
- 
-4.Decision trees provide a clear indication of which fields are most important for prediction or classification.
+## Outcome
 
-GINI INDEX
+* Built a machine learning model capable of predicting customer churn with high accuracy.
 
-The internal working of Gini impurity is also somewhat similar to the working of entropy in the Decision Tree. In the Decision Tree algorithm, both are used for building the tree by splitting as per the appropriate features but there is quite a difference in the computation of both the methods.
+* Provided actionable insights on key factors influencing churn.
 
-RANDOM FOREST
+* Enabled data-driven decision-making for personalized retention strategies, reducing customer loss.
 
-Random forests or random decision forests is an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time. For classification tasks, the output of the random forest is the class selected by most trees. For regression tasks, the mean or average prediction of the individual trees is returned. Random decision forests correct for decision trees' habit of overfitting to their training set. Random forests generally outperform decision trees
+## Programming Language: Python
+
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+Techniques: Data Preprocessing, Feature Engineering, Logistic Regression, Random Forest, Decision Tree, Model Evaluation (Confusion Matrix)
+
+
 
